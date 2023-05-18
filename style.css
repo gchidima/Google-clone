@@ -1,28 +1,45 @@
 .main {
-   
-
-}
-
-.btn-wrapper1 {
-    width: fit-content;
-   
-}
-
-.btn1 {
-    width: 1500px;
-    line-height: 100px;
-    display: block;
-    text-size-adjust: 50px;
 
 }
 
 .img {
-    width: 100px;
-    margin-top: 20px;
-    background-color: navy;
-
+    width: 500px;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.input-wrapper {
-    justify-content:;
+.input {
+    width: 600px;
+    margin-top: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+    border-radius: 20px;
+    border: 2px solid lightgray;
+  
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    width: 120px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    background-color: lightgray;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
 }
